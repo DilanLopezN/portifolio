@@ -1,7 +1,7 @@
-import { Earth, Ball, Computer, Stars } from './canvas';
+import { Earth, Ball, Computers, Stars } from './canvas';
 import { Hero } from './Hero';
 import { About } from './About';
-import { NavBar } from './Navbar';
+import { NavBar } from './NavBar';
 import { Tech } from './Tech';
 import { Experience } from './Experience';
 import { Works } from './Works';
@@ -21,6 +21,6 @@ export {
   Contact,
   Earth, 
   Ball, 
-  Computer, 
+  Computers, 
   Stars
 }
